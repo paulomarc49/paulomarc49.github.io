@@ -1,6 +1,6 @@
-# 👋 Hola, soy Luis Paolo Marcial Sánchez
+# 👋 Hola
 
-Desarrollador Python · Analista de Datos · Automatización e IoT  
+Desarrollador Python · Científico de Datos · Automatización e IoT  
 Apasionado por crear soluciones que integren **software**, **datos** y **sistemas físicos**.
 
 ---
@@ -24,7 +24,7 @@ Proyecto académico aplicado desarrollado para mi Maestría en Ciencia de Datos.
 ## 🛠 Habilidades Técnicas
 
 ### Lenguajes
-Python · SQL · JavaScript (básico)
+Python · SQL · C++
 
 ### Data & Análisis
 Pandas · NumPy · Matplotlib  
@@ -36,8 +36,10 @@ APIs · Regex · Tkinter
 SQLite · MySQL · LaTeX
 
 ### IoT / Embebidos
-Arduino · MAX6675 · LM35  
-Control PID · TRIAC · sensores
+Micro controladores · Arduino  
+Control PID
+Electrónica de potencia · Triacs
+Sensores
 
 ### Cloud
 AWS (RDS, EC2, S3)
@@ -47,5 +49,5 @@ AWS (RDS, EC2, S3)
 ## 📫 Contacto
 
 - GitHub: https://github.com/paulomarc49  
-- LinkedIn: *(agrega tu link)*  
-- Email: *(tu correo)*  
+- LinkedIn: www.linkedin.com/in/luis-marcial-5ab15b138
+- Email: paulomarc49@gmail.com
