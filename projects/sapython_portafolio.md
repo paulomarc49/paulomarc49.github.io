@@ -11,7 +11,7 @@ SAPhyton es una aplicación de escritorio que funciona como un **CMMS liviano**,
 <img src="https://raw.githubusercontent.com/paulomarc49/SAPython/main/assets/ver_proximos.png" width="550">
 <img src="https://raw.githubusercontent.com/paulomarc49/SAPython/main/assets/insights.png" width="550">
 <img src="https://raw.githubusercontent.com/paulomarc49/SAPython/main/assets/generador_informe.png" width="550">
-<img src="https://raw.githubusercontent.com/paulomarc49/SAPython/main/assets/ejemplo_infomre.png" width="550">
+<img src="https://raw.githubusercontent.com/paulomarc49/SAPython/main/assets/ejemplo_informe.png" width="550">
 
 
 
