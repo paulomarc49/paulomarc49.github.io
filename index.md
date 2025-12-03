@@ -31,7 +31,7 @@ Sistema embebido para control de máquinas expendedoras con Arduino Mega, teclad
 
 ### 🥭 DuwiFrutta — Planta de Deshidratado y Marca de Frutas Deshidratadas
 Proyecto de emprendimiento y desarrollo tecnológico donde diseñé y construí la **maquinaria de deshidratado** (modelado en SolidWorks), programé los **microcontroladores para el control de temperatura y temporización** y realicé el **montaje de la planta industrial de deshidratado**, además del desarrollo de la marca y catálogo de productos.  
-👉 [Ver proyecto](projects/duwi.md)  
+👉 [Ver proyecto](projects/duwifrutta.md)  
 👉 [Página web](https://marcialbrands.wixsite.com/duwi)
 
 ---
