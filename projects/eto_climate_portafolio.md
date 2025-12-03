@@ -1,4 +1,4 @@
-# 🌦️ ETo_climate — Estimación de Evapotranspiración (Tesis)
+# 🌦️ ETo_climate — Estimación de Evapotranspiración
 
 Proyecto desarrollado como parte de mi **Tesis de Maestría en Ciencia de Datos**.
 
