@@ -4,7 +4,7 @@ SAPhyton es una aplicación de escritorio que funciona como un **CMMS liviano**,
 
 ## 📷 Capturas
 
-<img src="SAPhyton/assets/main.png" width="550">
+<img src="paulomarc49/SAPhyton/assets/main.png" width="550">
 <img src="../assets/plan_mantenimiento.png" width="550">
 <img src="../assets/plan_guardado.png" width="550">
 <img src="../assets/generador_informe.png" width="550">
